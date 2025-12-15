@@ -1,0 +1,5 @@
+{
+  "name": "AI GameWorks",
+  "description": "An interactive platform where you can describe a game, and AI will build and run it instantly for you.",
+  "requestFramePermissions": []
+}
